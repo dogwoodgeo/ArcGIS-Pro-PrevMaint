@@ -1,0 +1,6 @@
+O:\IS\GIS\Development\dotNET\ArcGISPro\PreventiveMaintenance\PreventiveMaintenance\bin\Debug\PreventiveMaintenance.dll
+O:\IS\GIS\Development\dotNET\ArcGISPro\PreventiveMaintenance\PreventiveMaintenance\bin\Debug\PreventiveMaintenance.pdb
+O:\IS\GIS\Development\dotNET\ArcGISPro\PreventiveMaintenance\PreventiveMaintenance\obj\Debug\PreventiveMaintenance.csproj.CoreCompileInputs.cache
+O:\IS\GIS\Development\dotNET\ArcGISPro\PreventiveMaintenance\PreventiveMaintenance\obj\Debug\PreventiveMaintenance.dll
+O:\IS\GIS\Development\dotNET\ArcGISPro\PreventiveMaintenance\PreventiveMaintenance\obj\Debug\PreventiveMaintenance.pdb
+O:\IS\GIS\Development\dotNET\ArcGISPro\PreventiveMaintenance\PreventiveMaintenance\obj\Debug\PreventiveMaintenance.csprojAssemblyReference.cache
