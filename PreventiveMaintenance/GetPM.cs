@@ -103,8 +103,8 @@ namespace PreventiveMaintenance
            
             catch (Exception)
             {
-                string caption = "WARNING!";
-                string message = "Process failed! \n\nSave and restart ArcGIS Pro and try process again.\n\n" +
+                string caption = "Error Occured";
+                string message = "Process failed! \nSave and restart ArcGIS Pro and try process again.\n" +
                     "If problem persist, contact your local GIS nerd.";
 
                 //Using the ArcGIS Pro SDK MessageBox class
