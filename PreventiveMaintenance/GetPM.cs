@@ -98,7 +98,7 @@ namespace PreventiveMaintenance
                 });
                 // Open the standalone table pane
                 FrameworkApplication.Panes.OpenTablePane(standaloneTable, TableViewMode.eAllRecords);
-                //return true;
+
             }
            
             catch (Exception)
